@@ -1,0 +1,53 @@
+[33mcommit 2de645917e0c14e1ce6114f09bde5d8a65d5c9c3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: rudineyliemes <orudineyliemes@gmail.com>
+Date:   Sun Nov 7 12:39:02 2021 -0300
+
+    Pagination
+
+[33mcommit 90a984d220e66874d16cf70b7974d29dd3520091[m
+Author: rudineyliemes <orudineyliemes@gmail.com>
+Date:   Sun Nov 7 02:41:51 2021 -0300
+
+    Layers
+
+[33mcommit 203f2aee92eb1f3be6ac0e968ff1c130216841cf[m
+Author: rudineyliemes <orudineyliemes@gmail.com>
+Date:   Sun Nov 7 01:07:24 2021 -0300
+
+     Domain model, database seed
+
+[33mcommit e9f14243fb7240b1925e323e4dde4840880650e0[m
+Author: rudineyliemes <orudineyliemes@gmail.com>
+Date:   Sat Nov 6 23:55:01 2021 -0300
+
+    Security config
+
+[33mcommit 8326e54c1b563be67c718771c8e1947a9485b80d[m
+Author: rudineyliemes <orudineyliemes@gmail.com>
+Date:   Sat Nov 6 22:37:54 2021 -0300
+
+    Static charts
+
+[33mcommit fe538bc841a32eb2f3905693e01bc44a7ef3e277[m
+Author: rudineyliemes <orudineyliemes@gmail.com>
+Date:   Fri Nov 5 02:31:35 2021 -0300
+
+    Basic static components
+
+[33mcommit 0218c835b5b33688e4a963aed64aa365e5eb13eb[m
+Author: rudineyliemes <orudineyliemes@gmail.com>
+Date:   Fri Nov 5 01:28:41 2021 -0300
+
+    Bootstrap
+
+[33mcommit f4e4d5c275be5d67a187177d16890c5e1605bfb2[m
+Author: rudineyliemes <orudineyliemes@gmail.com>
+Date:   Thu Nov 4 23:17:17 2021 -0300
+
+    Project clean
+
+[33mcommit 00f4fb0c6577b76c8bde70d727d6a9a150ad44be[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Rudineyliemes <orudineyliemes@gmail.com>
+Date:   Wed Nov 3 20:25:13 2021 -0300
+
+    Projeto criado
